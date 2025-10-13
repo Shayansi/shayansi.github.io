@@ -24,7 +24,7 @@ I also created a new custom level and mechanic by creating a cloning mechanic th
 
 <h3>
   This project explores a hybrid 2D/3D platforming experience using Unity's physics system. The player can switch 
-  between 3D and 2D modes dynamically, changing movement constraints and solving puzzles across dimensions.
+  between 3D and 2D modes dynamically, changing movement constraints and solving puzzles across dimensions
 </h3>
 
 
