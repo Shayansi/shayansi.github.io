@@ -18,6 +18,10 @@ I also created a new custom level and mechanic by creating a cloning mechanic th
   <li><a href="https://shayansi.github.io/windows_build.zip/">P2 - 2.5D Windows Download</a></li>
 </ul>
 
+<ul>
+  <li><a href="https://shayansi.github.io/windows_build.zip/">P2 - 2.5D Mac Download</a></li>
+</ul>
+
 <h3>
   This project explores a hybrid 2D/3D platforming experience using Unity's physics system. The player can switch 
   between 3D and 2D modes dynamically, changing movement constraints and solving puzzles across dimensions.
