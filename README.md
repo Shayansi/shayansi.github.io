@@ -15,11 +15,11 @@
 I also created a new custom level and mechanic by creating a cloning mechanic that Link can use to tackle new puzzles</h3>
 
 <ul>
-  <li><a href="https://shayansi.github.io/windows_build.zip/">P2 - 2.5D Windows Download</a></li>
+  <li><a href="https://shayansi.github.io/windows_build.zip">P2 - 2.5D Windows Download</a></li>
 </ul>
 
 <ul>
-  <li><a href="https://shayansi.github.io/mac_build.zip/">P2 - 2.5D Mac Download</a></li>
+  <li><a href="https://shayansi.github.io/mac_build.zip">P2 - 2.5D Mac Download</a></li>
 </ul>
 
 <h3>
