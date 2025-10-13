@@ -15,7 +15,7 @@
 I also created a new custom level and mechanic by creating a cloning mechanic that Link can use to tackle new puzzles</h3>
 
 <ul>
-  <li><a href="https://shayansi.github.io/P2_2.5D.zip/">P2 - 2.5D (WebGL Build)</a></li>
+  <li><a href="https://shayansi.github.io/P2_2.5D.zip/">P2 - 2.5D Windows and Mac Download</a></li>
 </ul>
 
 <h3>
